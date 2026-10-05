@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=520&height=50&lines=Ol%C3%A1%2C+eu+sou+Pedro+Reves+%F0%9F%91%8B;Desenvolvedor+Fullstack;Do+backend+ao+front%2C+no+terminal." alt="Pedro Reves" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&height=50&lines=Ol%C3%A1%2C+eu+sou+Pedro+Reves+%F0%9F%91%8B;Desenvolvedor+Fullstack;Do+backend+ao+front%2C+no+terminal." alt="Pedro Reves" />
 
 <p>
   <img src="https://img.shields.io/badge/S%C3%A3o_Paulo-BR-161b22?style=flat-square&logo=googlemaps&logoColor=white" alt="São Paulo, BR" />
@@ -87,7 +85,7 @@ Tenho 19 anos, sou de **São Paulo** e trabalho como **Desenvolvedor Fullstack**
 
 | Projeto | Descrição | Stack |
 | :-- | :-- | :-- |
-| [**nome-do-projeto**](https://github.com/PedroRevesMD/calculo-cpf) | CLI criada com o foco em verificar cpfs válidos | `NodeJS` `Bun` |
+| [****](https://github.com/PedroRevesMD/calculo-cpf) | CLI criada com o foco em verificar cpfs válidos | `NodeJS` `Bun` |
 
 <br>
 
@@ -96,5 +94,5 @@ Tenho 19 anos, sou de **São Paulo** e trabalho como **Desenvolvedor Fullstack**
 <p>
   <a href="https://www.linkedin.com/in/pedro-reves"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://SEU_SITE.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-161b22?style=for-the-badge&logo=astro&logoColor=FF5D01" alt="Portfólio" /></a>
+  <a href="https://SEU_SITE.dev"></a>
 </p>

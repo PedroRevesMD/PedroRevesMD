@@ -85,7 +85,7 @@ Tenho 19 anos, sou de **São Paulo** e trabalho como **Desenvolvedor Fullstack**
 
 | Projeto | Descrição | Stack |
 | :-- | :-- | :-- |
-| [****](https://github.com/PedroRevesMD/calculo-cpf) | CLI criada com o foco em verificar cpfs válidos | `NodeJS` `Bun` |
+| [**calculo-cpf**](https://github.com/PedroRevesMD/calculo-cpf) | CLI criada com o foco em verificar cpfs válidos | `NodeJS` `Bun` |
 
 <br>
 

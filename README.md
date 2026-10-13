@@ -11,18 +11,18 @@
 
 ---
 
-### 👋 Sobre mim
+### Sobre mim
 
 Tenho 19 anos, sou de **São Paulo** e trabalho como **Desenvolvedor Fullstack**. Gosto de construir aplicações de ponta a ponta: APIs e serviços robustos no backend, interfaces rápidas, otimizadas e que seguem boas práticas no frontend.
 
-- 🔭 Trabalhando com **Java**, **Node.js** e **Go** no backend
-- 🎨 Construindo interfaces com **React** e **Astro**
-- ⚙️ Explorando **C++** e performance de baixo nível
-- 💬 Me pergunte sobre: **Neovim**, **arquitetura de APIs**, **fluxo Figma → código**
+- Trabalhando com **Java**, **Node.js** e **Go** no backend
+- Construindo interfaces com **React** e **Astro**
+- Explorando **C++** e performance de baixo nível
+- Me pergunte sobre: **Neovim**, **arquitetura de APIs**, **fluxo Figma → código**
 
 <br>
 
-### 🛠️ Linguagens e Frameworks
+### Linguagens e Frameworks
 
 <p>
   <a href="https://skillicons.dev">
@@ -34,7 +34,7 @@ Tenho 19 anos, sou de **São Paulo** e trabalho como **Desenvolvedor Fullstack**
 
 <br>
 
-### 🧰 Ferramentas do dia a dia
+### Ferramentas do dia a dia
 
 <p>
   <a href="https://skillicons.dev">
@@ -46,7 +46,7 @@ Tenho 19 anos, sou de **São Paulo** e trabalho como **Desenvolvedor Fullstack**
 
 <br>
 
-### 📊 GitHub em números
+### GitHub em números
 
 <div align="center">
 
@@ -79,9 +79,7 @@ Tenho 19 anos, sou de **São Paulo** e trabalho como **Desenvolvedor Fullstack**
 
 <br>
 
-### 📌 Projetos em destaque
-
-> Fixe seus melhores repositórios no perfil, ou liste-os aqui:
+### Projetos em destaque
 
 | Projeto | Descrição | Stack |
 | :-- | :-- | :-- |
@@ -89,7 +87,7 @@ Tenho 19 anos, sou de **São Paulo** e trabalho como **Desenvolvedor Fullstack**
 
 <br>
 
-### 🤝 Vamos conversar
+### Vamos conversar
 
 <p>
   <a href="https://www.linkedin.com/in/pedro-reves"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
